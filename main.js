@@ -75,7 +75,7 @@
     var tx = 0, ty = 0, cx = 0, cy = 0;
     window.addEventListener('mousemove', function (e) { tx = e.clientX; ty = e.clientY; cur.classList.add('on'); });
     (function loop() {
-      cx += (tx - cx) * 0.2; cy += (ty - cy) * 0.2;
+      cx += (tx - cx) * 0.5; cy += (ty - cy) * 0.5;
       cur.style.left = cx + 'px'; cur.style.top = cy + 'px';
       requestAnimationFrame(loop);
     })();
