@@ -15,14 +15,10 @@ assets/docs/          put Kayla-Rodriguez-Resume.pdf here
 ```
 
 ## Your to-do list (about 20 min of edits, then publish)
-1. **LinkedIn:** search all files for `YOUR-LINKEDIN-HANDLE` and replace with your real profile handle (index.html has 2).
-2. **Headshot:** replace `assets/images/headshot.jpg` with an original, higher-res photo (keep the filename).
 3. **Project thumbnails:** replace the `*-thumb.jpg` files with high-res originals (keep filenames).
-4. **Résumé PDF:** save it as `assets/docs/Kayla-Rodriguez-Resume.pdf`.
 5. **Science Said flipbook:** open `projects/science-said.html`, find the FlipHTML5 comment, paste your embed link.
 6. **Other three project pages:** replace the yellow ✎ placeholder notes with your abstract, concept, artist statement, process, and photos/video. Video and photo snippets are in the comment at the bottom of each page.
-7. **Education:** add degree titles and dates in `resume.html`.
-8. **Phone number:** it is hidden on purpose, since a public page is easy to scrape. Uncomment it in index.html if you want it shown.
+
 
 ## Publish for free (pick one)
 - **Netlify Drop:** go to app.netlify.com/drop and drag the whole folder in. You get a live link in about 30 seconds. You can rename it, for example `kaylarodriguez.netlify.app`.
